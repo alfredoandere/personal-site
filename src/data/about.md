@@ -1,11 +1,10 @@
 
 # Intro
-I am a co-founder and the CEO of [Latch.Bio](https://latch.bio) where I help with product and other things that help bioinformaticians build and deploy pipelines faster and at scale. I dropped out of Berkeley where I was studying EECS
- and Math and leading ML@B.If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a co-founder and the CEO of [Latch.Bio](https://latch.bio) where I help with product and other things that help bioinformaticians build and deploy pipelines faster and at scale. I dropped out of Berkeley where I was studying EECS and Math and leading ML@B. I was born and raised in Mexico. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+At LatchBio I am learning how to build teams, manage people, shape culture, make customers happy, and build communities. I am constatly ramping up on bio. 
 
 # Some history
 
@@ -44,9 +43,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # I like
 
 - Running
-- Skiing
+- Snowboarding
 - Sailing and the sea
-- Space
+- 
 - Summer
 - [Books](https://www.goodreads.com/mdangelo)
 - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
@@ -56,15 +55,14 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited: Canada, England, France, and Switzerland.
-- In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast.
+- I am from Mexico City, Mexico. I have lived in Queretaro, San Antonio, Los Angeles, Guadalajara, Berkeley, and San Francisco.
+- I've been to ~ 30 countries.
+- In 2016, I visited: Canada.
+- In 2017, I visited: Canada, Spain, Greece, Germany, France, Denmark, Sweden, Finland, Russia, Estonia, and the Netherlands, then I moved to Berkeley. 
+- In 2018, I visited: Canada.
+- In 2019, I visited: Japan, Hong Kong, Thailand, Kuala Lumpur, Indonesia, and Singapore.
+- In 2020, I did not travel.
+- In 2021, I lived in Taiwan for three months and then moved to San Francisco.
 
 # Fun facts
 
@@ -82,20 +80,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - doing better.
 - you not checking the commit history for earlier drafts of this file.
 
-# Websites from people I admire
+# Websites from friends I admire
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
+- [Chris Bender](https://chrisliambender.com/)
+- [Linus Lee](https://thesephist.com/)
+- [Kenny Workman](https://kenbw.com/)
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
