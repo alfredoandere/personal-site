@@ -43,13 +43,12 @@ At LatchBio we are redefining the potential of software and data within biotech.
 # Hottakes
 
 - All drugs should be legalized. 
-- Drugs are among the most useless animals in the planet, the most socially acceptable dopamine addiction. 
+- Drugs are among the most useless animals on earth, the most socially acceptable dopamine addiction.
 
 # I dream of
 
 - Curing death.
 - Downloading my brain into a computer.
-- 
 
 # Websites from friends I admire
 
