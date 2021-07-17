@@ -19,15 +19,13 @@ At LatchBio we are redefining the potential of software and data within biotech.
 
 # I like
 
+- Learning
 - Running
 - Snowboarding
-- Sailing and the sea
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
+- Scubadiving
+- [Books](/bookshelf)
+- A little about a lot
 - [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
 
 # Travel / Geography
 

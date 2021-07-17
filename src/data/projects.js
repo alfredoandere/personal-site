@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Adversarial Attacks by the Media',
     subtitle: '2015 BVP Hackathon',
     image: '/images/projects/nearestdollar.jpg',
     date: '2015-11-20',
@@ -12,7 +12,7 @@ const data = [
       + 'the charity of your choice.',
   },
   {
-    title: 'Harvest',
+    title: 'Meerk.io',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
@@ -23,7 +23,30 @@ const data = [
       + 'and nutrient deficiencies at an affordable price for the developing world.',
   },
   {
-    title: 'Space Potato',
+    title: 'Flash-ML',
+    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    link: 'http://www.spacepotato.org',
+    image: '/images/projects/spacepotato.jpg',
+    date: '2015-06-28',
+    desc:
+      'Launched a potato battery powered weather balloon with two cameras '
+      + 'and gps transponder. Resulting photos were published in a coffee table book. '
+      + 'You can email me for a copy.',
+  },
+  {
+    title: 'WebAssembly',
+    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    link: 'http://www.spacepotato.org',
+    image: '/images/projects/spacepotato.jpg',
+    date: '2015-06-28',
+    desc:
+      'Launched a potato battery powered weather balloon with two cameras '
+      + 'and gps transponder. Resulting photos were published in a coffee table book. '
+      + 'You can email me for a copy.',
+  },
+
+  {
+    title: 'FlashCV',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',

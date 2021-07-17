@@ -2,30 +2,26 @@ const routes = [
   {
     index: true,
     label: 'Alfredo Andere',
-    path: '/',
-  },
-  {
-    label: 'About',
     path: '/about',
-  },
-  {
-    label: 'Resume',
-    path: '/resume',
   },
   {
     label: 'Projects',
     path: '/projects',
   },
   {
-    label: 'Posts',
-    path: '/projects',
+    label: 'Things',
+    path: '/',
   },
   {
     label: 'Bookshelf',
     path: '/projects',
   },
   {
-    label: 'Stats',
+    label: 'Resume',
+    path: '/resume',
+  },
+  {
+    label: 'Cool Stats',
     path: '/stats',
   },
   {

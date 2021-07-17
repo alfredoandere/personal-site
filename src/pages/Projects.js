@@ -8,14 +8,14 @@ import data from '../data/projects';
 
 const Projects = () => (
   <Main
-    title="Projects"
-    description="Learn about Michael D'Angelo's projects."
+    title="Things"
+    description="Expo of things by Alfredo Andere."
   >
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>A selection of projects that I&apos;m not too ashamed of</p>
+          <h2 data-testid="heading"><Link to="/projects">Things</Link></h2>
+          <p>A selection of things that I&apos;ve made</p>
         </div>
       </header>
       {data.map((project) => (
